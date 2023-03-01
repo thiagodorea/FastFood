@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "titulo":"Feijoada",
+        "descricao":"Refeição",
+        "imagem":"./assets/img/feijoada.png"
+    },
+    {
+        "id":2,
+        "titulo":"Camarão",
+        "descricao":"Refeição",
+        "imagem":"./assets/img/camarao.png"
+    },
+    {
+        "id":3,
+        "titulo":"Coxinha",
+        "descricao":"Porção",
+        "imagem":"./assets/img/coca-cola.png"
+    },
+    {
+        "id":4,
+        "titulo":"Torta Limao",
+        "descricao":"Sobre Mesa",
+        "imagem":"./assets/img/coxinha.png"
+    },
+    {
+        "id":5,
+        "titulo":"Coca Cola",
+        "descricao":"Bebida",
+        "imagem":"https://www.varanda.com.br/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/c/o/coca-cola-600ml-7894900011609.jpg"
+        
+    }
+]
